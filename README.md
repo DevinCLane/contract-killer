@@ -1,18 +1,16 @@
 # California Contract Killer
 
-This is a "plain language" contract template for a freelance web developer, based on the Stuff & Nonsense Ltd. [Killer Contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
+This is a "plain language" contract template for a freelance web developer. These are my edits of Sam Sycamore's "California" version of the contract by based on the Stuff & Nonsense Ltd. [Killer Contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
 
-The purpose is to provide you and your client with a simple contract that clearly outlines the terms of your deal using terminology that doesn't require a law degree to understand.
+This provides you and your client with a simple contract that clearly outlines the terms of your deal using simple, readable language.
 
-The original version is great, but I don't love some of the more cheeky British humor baked in, and there are minor elements of the phrasing, grammar, and spelling that I would never use as an American.
-
-This edit reflects the kind of language that feels more appropriate to me. Your mileage may vary!
+I've edited some of Sam's edits to reflect language that I personally would use.
 
 > Please understand that I am not a lawyer and none of my text has been reviewed by a law professional.
 >
 > If you are worried about legal liability, you should talk to a lawyer before entering into any contract.
 
-Hello to everyone from #100devs! I hope you find this contract useful!
+Hi #100devs, best of luck in your journey!
 
 If you land a client and get paid, I would highly encourage you to [pay the original creators](https://stuffandnonsense.co.uk/projects/contract-killer/) for their work.
 
@@ -22,11 +20,11 @@ If you land a client and get paid, I would highly encourage you to [pay the orig
 #### And [customer name]
 
 ## Summary:
-I will always do my best to fulfill your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong.
+I will always do my best to fulfill your needs and meet your expectations. To that end, it’s important for us to outline the terms of our agreement in writing so that we're both on the same page, know who should do what and when, and what will happen if something goes wrong.
 
 In this contract you won’t find any complicated legal terms or long passages of unreadable text. I would never want to trick you into signing something that you might later regret. What I do want is what’s best for both parties, now and in the future.
 
-In short;
+In short:
 
 You ([customer name]), located at [customer address] (“You”) are hiring me ([company name]) (“Me”) to:
 
@@ -39,7 +37,7 @@ For the estimated total price of [total] as outlined in our previous corresponde
 **Me**: I have the experience and ability to do everything I’ve discussed with you and I will do it all in a professional and timely manner. I will do my best to meet every deadline that’s set, and I will maintain the confidentiality of everything you give me.
 
 ## Design
-I create designs that adapt to the capabilities of many devices and screen sizes. I create them iteratively using HTML and CSS, and it would be a poor use of my time to mock up every template as a static visual. I may use visuals to indicate a creative direction (color, texture and typography).
+I create designs that adapt to the capabilities of many devices and screen sizes. I create them iteratively using HTML, CSS, and JavaScript, and it would be a poor use of my time to mock up every template as a static visual. I may use visuals to indicate a creative direction (color, texture and typography).
 
 You will have plenty of opportunities to review my work and provide feedback. I will share a Github repository and development site with you and we will have regular contact via phone, email, or any video chat provider we agree to, such as Zoom or Skype.
 
