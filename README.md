@@ -20,7 +20,7 @@ If you land a client and get paid, I would highly encourage you to [pay the orig
 #### And [customer name]
 
 ## Summary:
-I will always do my best to fulfill your needs and meet your expectations. To that end, it’s important for us to outline the terms of our agreement in writing so that we're both on the same page, know who should do what and when, and what will happen if something goes wrong.
+I will always do my best to fulfill your needs and meet your expectations. To ensure a successful collaboration, it’s important for us to outline the terms of our agreement in writing so that we're both on the same page, know who should do what and when, and what will happen if something goes wrong.
 
 In this contract you won’t find any complicated legal terms or long passages of unreadable text. I would never want to trick you into signing something that you might later regret. What I do want is what’s best for both parties, now and in the future.
 
